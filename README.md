@@ -1,9 +1,9 @@
 ## Hei 👋
 
-Olen Sami, 30v ja kotoisin Lahdesta. Olen työskennellyt turvallisuusalalla reilun 12-vuotta ja nyt alanvaihto suunnitelmissa. Opiskelen vielä syyskuun töiden ohella.
-Harrastuksiin kuuluu tietokoneiden kasailua, sekä kuntosalilla käymistä.
+Olen Sami, 30v ja kotoisin Lahdesta. Opiskelen Tieto-ja Viestintätekniikan insinööriksi.
+Harrastan tietokoneiden kasaamista ja kuntosalilla tulee säännöllisen epäsäännöllisesti käytyä.
 
-Urheilusta tulee seurattua lähinnä vapaaottelua ja nyrkkeilyä.
+Alalta kiinnostaa erityisesti tietoturvallisuus.
 <!--
 **SamiVViljanen/SamiVViljanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
