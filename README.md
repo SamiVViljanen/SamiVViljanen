@@ -3,7 +3,7 @@
 Olen Sami, 30v ja kotoisin Lahdesta. Olen työskennellyt turvallisuusalalla reilun 12-vuotta ja nyt alanvaihto suunnitelmissa. Opiskelen vielä syyskuun töiden ohella.
 Harrastuksiin kuuluu tietokoneiden kasailua, sekä kuntosalilla käymistä.
 
-Urheilusta tulee seurattua lähinnä vapaaottelua ja nyrkkeilyä. Koodikielistä harjoitellut hieman HTML, JavaScript sekä Python alkeita.
+Urheilusta tulee seurattua lähinnä vapaaottelua ja nyrkkeilyä.
 <!--
 **SamiVViljanen/SamiVViljanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
