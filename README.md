@@ -5,7 +5,7 @@ Harrastan tietokoneiden kasaamista ja kuntosalilla tulee säännöllisen epäsä
 
 Alalta kiinnostaa erityisesti tietoturvallisuus.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samivviljanen)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samivviljanen)
 <!--
 **SamiVViljanen/SamiVViljanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
