@@ -1,9 +1,11 @@
 ## Hei 👋
 
-Olen Sami, 30v ja kotoisin Lahdesta. Opiskelen Tieto-ja Viestintätekniikan insinööriksi.
+Olen Sami, 30v ja kotoisin Lahdesta. Opiskelen LAB Ammattikorkeakoulussa Tieto-ja Viestintätekniikan insinööriksi.
 Harrastan tietokoneiden kasaamista ja kuntosalilla tulee säännöllisen epäsäännöllisesti käytyä.
 
 Alalta kiinnostaa erityisesti tietoturvallisuus.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samivviljanen)]
 <!--
 **SamiVViljanen/SamiVViljanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
